@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginDatabase</string>
+    <string name="emptyString" />
+</resources>
